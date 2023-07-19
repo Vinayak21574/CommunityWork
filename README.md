@@ -5,4 +5,4 @@
 Through my experience, I learned the importance of connecting people with influential initiatives 
 to people with incredible technology. My website acted as a stage to highlight the good deeds and 
 achievements of the NGO previously working on papers. I aim to provide such technological 
-support to variuos organizations in the futur
+support to variuos organizations in the future.
